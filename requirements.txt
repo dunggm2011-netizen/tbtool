@@ -1,4 +1,0 @@
-pyTelegramBotAPI==4.13.0
-requests
-websocket-client
-pytz
